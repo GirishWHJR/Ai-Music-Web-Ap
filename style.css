@@ -1,0 +1,25 @@
+h1
+{
+    text-align: center;
+    background: orange;
+    color: white;
+}
+span{
+    font-size: 15px;
+    color: black;
+}
+h3
+{
+    box-shadow: 5px 5px 5px gray;
+    font-size: 20px;
+    padding: top;
+    
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px gray;
+    padding-top: 10px;
+    margin-top: 200px;
+}               
